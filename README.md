@@ -1,5 +1,4 @@
-## Hello, welcome to my GitHub page ⚡<!-- :bowtie: <img src="https://raw.githack.com/yl17124/DMASS/master/logo/Essex.jpg" width="175" height= "50" align="right" />  <br /> 
--->
+## Hello, welcome to my GitHub page ⚡
 
 I am a Ph.D. student in the Department of Political Science at the University of South Carolina, Columbia. I study Comparative Politics, International Relations, and Political Methodology. My research interests include some areas with an emphasis on the effects of political institutions across various geographies.
 
