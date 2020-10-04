@@ -6,14 +6,15 @@ More specifically, my research examines how institutions condition individuals�
 
 ### Comparative Authoritarian Studies 
 - 💬 Studies on comparative authoritarian regimes will be labelled with the sticker of **Comparative Autocracies**.
+<img src="autocrats.png" width="90" height= "100" align="right" /> <br />  
 - Working Papers: 
   - [Why do authoritarian regimes provide welfare program?](https://github.com/pherephobia/Authoritarian.Welfare)
   - [Heterogeneous Democratization: Elite Politics and Economic Sanctions](https://github.com/pherephobia/HeteroDem)
-<img src="autocrats.png" width="90" height= "100" align="right" /> <br />  
 ### Studies on Korean Politics 
 - 💬 Studies on Korean politics will be labelled with the sticker of **Korean Politics**.
-- Published Papers: *Will be updated soon.*
 <img src="Korean Politics.png" width="90" height= "100" align="right" /> <br />  
+- Published Papers: *Will be updated soon.*
+
 <!--
 **pherephobia/pherephobia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
