@@ -4,6 +4,11 @@ I am a Ph.D. student in the Department of Political Science at the University of
 
 More specifically, my research examines how institutions condition individuals’ behavior and how these and other factors shape systematic change. Thus, I am focusing on some politics features in dictatorships (autocracies) that are usually considered just “non-democracies.” I’m currently working on the research topics of *Why Do Authoritarian Regimes Provide Welfare?* and *Heterogeneous Democracy: Elite Politics and Elite Politics and Economic Sanctions*. If you want to know me more, feel free to visit my [webpage](shpark.netlify.app) and see my lastest curriculum vitae!
 
+### Comparative Authoritarian Studies <img src="autocrats.png" width="90" height= "100" align="right" /> <br />  
+
+### Studies on Korean Politics <img src="Korean politics.png" width="90" height= "100" align="right" /> <br />  
+
+
 <!--
 **pherephobia/pherephobia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
