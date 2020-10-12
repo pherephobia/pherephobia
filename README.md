@@ -14,7 +14,8 @@ More specifically, my research examines how institutions condition individuals�
 - 💬 Studies on Korean politics will be labelled with the sticker of **Korean Politics**.
 <img src="Korean Politics.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers: *Will be updated soon.*
-
+- Working Papers:
+  - [Persistence and Change in Attitudes toward North Korea and Unification: Empirical Analyses of National Consciousness Survey](https://github.com/pherephobia/2020_Panmunjom)
 <!--
 **pherephobia/pherephobia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
