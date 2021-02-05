@@ -16,6 +16,14 @@ More specifically, my research examines how institutions condition individuals�
 - Published Papers: *Will be updated soon.*
 - Working Papers:
   - [Persistence and Change in Attitudes toward North Korea and Unification: Empirical Analyses of National Consciousness Survey](https://github.com/pherephobia/2020_Panmunjom)
+  
+ ### Studies on International Relations
+- 💬 Studies on International Relations will be labelled with the sticker of **Intl. Relations**.
+<img src="IR.png" width="90" height= "100" align="right" /> <br />  
+- Published Papers: *Will be updated soon.*
+- Working Papers:
+  - Social Capital and the Success of Economic Sanction 
+ 
 <!--
 **pherephobia/pherephobia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
