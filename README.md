@@ -22,7 +22,7 @@ More specifically, my research examines how institutions condition individuals�
 <img src="IR.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers: *Will be updated soon.*
 - Working Papers:
-  - Social Capital and the Success of Economic Sanction 
+  - [Social Capital and the Success of Economic Sanction](https://github.com/pherephobia/SCEconSanction)
  
 <!--
 **pherephobia/pherephobia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
