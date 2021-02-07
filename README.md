@@ -14,7 +14,7 @@ More specifically, my research examines how institutions condition individualsâ€
 - ðŸ’¬ Studies on Korean politics will be labelled with the sticker of **Korean Politics**.
 <img src="Korean Politics.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers: *Will be updated soon.*
-- Book chapter In *Issues and Perspectives in Korean Peace Process.} Hankuk University of Foreign Studies Knowledge Press.*:
+- Book chapter In *Issues and Perspectives in Korean Peace Process.* Hankuk University of Foreign Studies Knowledge Press.:
   - [What Do We Know and Do Not Know?: Attitudes Toward North Korea and Unification](https://github.com/pherephobia/2020_Panmunjom)
   
  ### Studies on International Relations
