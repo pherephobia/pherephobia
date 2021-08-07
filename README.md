@@ -11,7 +11,8 @@ More specifically, my research examines how institutions condition individualsâ€
 - Working Papers: 
   - [Why do authoritarian regimes provide welfare program?](https://github.com/pherephobia/Authoritarian.Welfare)
   - [Heterogeneous Democratization: Elite Politics and Economic Sanctions](https://github.com/pherephobia/HeteroDem)
-  - You Scratch My Back and I Scratch Yours: An Explanation of Dyadic Politics of Naming and Shaming (co-author: Chun-Young Park, UGA)
+  - You Scratch My Back and I Scratch Yours: An Explanation of Dyadic Politics of Naming and Shaming 
+(co-author: Chun-Young Park, UGA)
 ### Studies on Korean Politics 
 - ðŸ’¬ Studies on Korean politics will be labelled with the sticker of **Korean Politics**.
 <img src="Korean Politics.png" width="90" height= "100" align="right" /> <br />  
