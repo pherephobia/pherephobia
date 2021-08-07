@@ -1,5 +1,5 @@
 ## Hello, welcome to my GitHub page ⚡
-<img src= "https://raw.githubusercontent.com/pherephobia/BasicStatsR/master/sanghoon.png?token=AJCERQ7IJ5HS4SUO5YAGDXTBBYJ3C"  width="210" height= "210" align="right" />
+<img src= "avataaars.png"  width="210" height= "210" align="right" />
 
 I am a Ph.D. Candidate in the Department of Political Science at the University of South Carolina, Columbia. I study Comparative Politics, International Relations, and Political Methodology. My research interests include some areas with an emphasis on the effects of political institutions across various geographies.
 
