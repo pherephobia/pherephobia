@@ -27,10 +27,10 @@ More specifically, my research examines how institutions condition individualsâ€
 - Working Papers:
   - [Social Capital and the Success of Economic Sanction](https://github.com/pherephobia/SCEconSanction)
  
- ### :cyclone: Languages
+ ### Languages
 ![R](https://img.shields.io/badge/R-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-0696D7?style=plastic&logo=R&logoColor=white) ![python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=python&logoColor=white) 
 
-### :mailbox_with_mail: Contacts
+### Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pherephobia@gmail.com)](mailto:pherephobia@gmail.com) 
  
 <!--
