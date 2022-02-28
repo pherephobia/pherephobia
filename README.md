@@ -32,7 +32,7 @@ More specifically, my research examines how institutions condition individuals�
 
 ### Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pherephobia@gmail.com)](mailto:pherephobia@gmail.com) 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sp23@email.sc.edu)
+[![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:walafif81@gmail.com)](mailto:sp23@email.sc.edu)
 <!--
 **pherephobia/pherephobia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
