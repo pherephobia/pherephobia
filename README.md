@@ -8,6 +8,7 @@ More specifically, my research examines how institutions condition individualsâ€
 ### Studies on Comparative Authoritarian  
 - ðŸ’¬ Studies on comparative authoritarian regimes will be labelled with the sticker of **Comparative Autocracies**.
 <img src="autocrats.png" width="90" height= "100" align="right" /> <br />  
+- Published Papers: *Will be updated soon.*
 - Working Papers: 
   - [Why do authoritarian regimes provide welfare program?](https://github.com/pherephobia/Authoritarian.Welfare)
   - [Heterogeneous Democratization: Elite Politics and Economic Sanctions](https://github.com/pherephobia/HeteroDem)
@@ -21,6 +22,7 @@ More specifically, my research examines how institutions condition individualsâ€
   - [Leadership in Communication: How Leadershipo and Communication Affect Public Service Motivation (PSM)](https://github.com/pherephobia/05_KIPA-KAPA)
 - Book chapter In *Issues and Perspectives in Korean Peace Process.* Hankuk University of Foreign Studies Knowledge Press.:
   - [What Do We Know and Do Not Know?: Attitudes Toward North Korea and Unification](https://github.com/pherephobia/2020_Panmunjom)
+- Working Papers: *Will be updated soon.*
   
  ### Studies on International Relations
 - ðŸ’¬ Studies on International Relations will be labelled with the sticker of **Intl. Relations**.
