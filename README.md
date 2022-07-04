@@ -22,7 +22,8 @@ More specifically, my research examines how institutions condition individualsâ€
   - [Leadership in Communication: How Leadershipo and Communication Affect Public Service Motivation (PSM)](https://github.com/pherephobia/05_KIPA-KAPA)
 - Book chapter In *Issues and Perspectives in Korean Peace Process.* Hankuk University of Foreign Studies Knowledge Press.:
   - [What Do We Know and Do Not Know?: Attitudes Toward North Korea and Unification](https://github.com/pherephobia/2020_Panmunjom)
-- Working Papers: *Will be updated soon.*
+- Working Papers: 
+  - [Effect of Reasons for Re/by-election on Voting Participation and Outcomes: An Empirical Study of Re/by-elections for the Korean National Assembly after democratization](https://github.com/pherephobia/03_KR_REBYELECTION_TURNOUT) (Updating)
   
  ### Studies on International Relations
 - ðŸ’¬ Studies on International Relations will be labelled with the sticker of **Intl. Relations**.
