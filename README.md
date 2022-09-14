@@ -9,12 +9,14 @@ More specifically, my research examines how institutions condition individuals�
 - 💬 Studies on comparative authoritarian regimes will be labelled with the sticker of **Comparative Autocracies**.
 <img src="autocrats.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers: *Will be updated soon.*
+  - [Empirical Indicators of Democracy and Authoritarianism](https://www.oxfordbibliographies.com/view/document/obo-9780199756223/obo-9780199756223-0348.xml?rskey=tdWYwB&result=1&q=Empirical+Indicators+of+Democracy+and+Authoritarianism#firstMatch) (co-author: [Matthew C. Wilson, UofSC](http://matthewcharleswilson.com/), *peer-reviewed*)
+- Under Reviews:
+  - You Scratch My Back and I Scratch Yours: An Explanation of Dyadic Politics of Naming and Shaming <br>
+(co-author: Chun-Young Park, UGA)
 - Working Papers: 
   - [Why do authoritarian regimes provide welfare program?](https://github.com/pherephobia/Authoritarian.Welfare)
   - [Heterogeneous Democratization: Elite Politics and Economic Sanctions](https://github.com/pherephobia/HeteroDem)
-  - You Scratch My Back and I Scratch Yours: An Explanation of Dyadic Politics of Naming and Shaming <br>
-(co-author: Chun-Young Park, UGA)
-  - [Empirical Indicators of Democracy and Authoritarianism](https://www.oxfordbibliographies.com/view/document/obo-9780199756223/obo-9780199756223-0348.xml?rskey=tdWYwB&result=1&q=Empirical+Indicators+of+Democracy+and+Authoritarianism#firstMatch)
+
 ### Studies on Korean Politics 
 - 💬 Studies on Korean politics will be labelled with the sticker of **Korean Politics**.
 <img src="Korean Politics.png" width="90" height= "100" align="right" /> <br />  
