@@ -38,7 +38,7 @@ More specifically, my research examines how institutions condition individualsâ€
 - Published Papers: *Will be updated soon.*
 - Working Papers:
   - [Social Capital and the Success of Economic Sanction](https://github.com/pherephobia/SCEconSanction)
-    - Co-authors: Jaeyoung Hur (Yonsei Univ.), [Hanna Kim (UNOmaha)](https://www.unomaha.edu/college-of-arts-and-sciences/political-science/about-us/directory/hannah-june-kim.php), [Taehee Whang (Yonsei Univ.](https://yonsei.pure.elsevier.com/en/persons/taehee-whang)
+    - Co-authors: Jaeyoung Hur (Yonsei Univ.), [Hanna Kim (UNOmaha)](https://www.unomaha.edu/college-of-arts-and-sciences/political-science/about-us/directory/hannah-june-kim.php), [Taehee Whang (Yonsei Univ.)](https://yonsei.pure.elsevier.com/en/persons/taehee-whang)
 
 ### Studies on Pedagogy
 - ðŸ’¬ Studies on pedagogy and education on ppolitical science will be labelled with the sticker of **Pedagogy**.
