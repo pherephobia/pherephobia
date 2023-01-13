@@ -26,14 +26,14 @@ More specifically, my research examines how institutions condition individuals�
 - Book chapter In *Issues and Perspectives in Korean Peace Process.* Hankuk University of Foreign Studies Knowledge Press.:
   - [What Do We Know and Do Not Know?: Attitudes Toward North Korea and Unification](https://github.com/pherephobia/2020_Panmunjom)
 - Working Papers: 
-  - Trust Heuristic and Vote Choice: Evidence from Cross-sectional Studies in South Korea (co-author: Jaeyoung Hur, Hyun-Hee Heo, Deok Hyun Jang, Won Mo Jang)
+  - Trust Heuristic and Vote Choice: Evidence from Cross-sectional Studies in South Korea (co-authors: Jaeyoung Hur, Hyun-Hee Heo, Deok Hyun Jang, Won Mo Jang)
   
  ### Studies on International Relations
 - 💬 Studies on International Relations will be labelled with the sticker of **Intl. Relations**.
 <img src="IR.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers: *Will be updated soon.*
 - Working Papers:
-  - [Social Capital and the Success of Economic Sanction](https://github.com/pherephobia/SCEconSanction)
+  - [Social Capital and the Success of Economic Sanction](https://github.com/pherephobia/SCEconSanction) (co-authors: Jaeyoung Hur, Hanna Kim, and Taehee Whang)
 
 ### Studies on Pedagogy
 - 💬 Studies on pedagogy and education on ppolitical science will be labelled with the sticker of **Pedagogy**.
