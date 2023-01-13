@@ -5,7 +5,7 @@ I am a Ph.D. Candidate in the Department of Political Science at the University 
 
 More specifically, my research examines how institutions condition individuals’ behavior and how these and other factors shape systematic change. Thus, I am focusing on some politics features in dictatorships (autocracies) that are usually considered just “non-democracies.” I’m currently working on the research topics of *Why Do Authoritarian Regimes Provide Welfare?* and *Heterogeneous Democracy: Elite Politics and Elite Politics and Economic Sanctions*. If you want to know me more, feel free to visit my [webpage](https://www.sanghoon-park.com/) and see my lastest curriculum vitae (also, you can find my CV [here](https://www.dropbox.com/s/emdhih3uzpo660n/Sanghoon_Park_CV.pdf?dl=0)!)
 
-### Studies on Comparative Authoritarian  
+### Studies on Comparative Authoritarianism  
 - 💬 Studies on comparative authoritarian regimes will be labelled with the sticker of **Comparative Autocracies**.
 <img src="autocrats.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers: 
@@ -33,7 +33,13 @@ More specifically, my research examines how institutions condition individuals�
 - Published Papers: *Will be updated soon.*
 - Working Papers:
   - [Social Capital and the Success of Economic Sanction](https://github.com/pherephobia/SCEconSanction)
- 
+
+### Studies on Pedagogy
+- 💬 Studies on pedagogy and education on ppolitical science will be labelled with the sticker of **Pedagogy**.
+<img src="pedagogy.png" width="90" height= "100" align="right" /> <br />  
+- Published Papers: 
+  - [Concept Mapping and Reading Comprehension](https://www.tandfonline.com/doi/abs/10.1080/15512169.2023.2164861?journalCode=upse20) (co-author: [Matthew C. Wilson, UofSC](http://matthewcharleswilson.com/), [Christopher, Howell](https://sites.google.com/view/c-e-howell), and [Kelsey Martin-Morales](https://www.kelseymartinmorales.com/) *peer-reviewed*)
+
  ### Languages
 ![R](https://img.shields.io/badge/R-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-0696D7?style=plastic&logo=R&logoColor=white) ![python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=python&logoColor=white) 
 
