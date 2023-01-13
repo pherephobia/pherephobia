@@ -26,6 +26,7 @@ More specifically, my research examines how institutions condition individualsâ€
 - Book chapter In *Issues and Perspectives in Korean Peace Process.* Hankuk University of Foreign Studies Knowledge Press.:
   - [What Do We Know and Do Not Know?: Attitudes Toward North Korea and Unification](https://github.com/pherephobia/2020_Panmunjom)
 - Working Papers: 
+  - Trust Heuristic and Vote Choice: Evidence from Cross-sectional Studies in South Korea (co-author: Jaeyoung Hur, Hyun-Hee Heo, Deok Hyun Jang, Won Mo Jang)
   
  ### Studies on International Relations
 - ðŸ’¬ Studies on International Relations will be labelled with the sticker of **Intl. Relations**.
