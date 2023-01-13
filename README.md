@@ -9,10 +9,11 @@ More specifically, my research examines how institutions condition individualsâ€
 - ðŸ’¬ Studies on comparative authoritarian regimes will be labelled with the sticker of **Comparative Autocracies**.
 <img src="autocrats.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers: 
-  - [Empirical Indicators of Democracy and Authoritarianism](https://www.oxfordbibliographies.com/view/document/obo-9780199756223/obo-9780199756223-0348.xml?rskey=tdWYwB&result=1&q=Empirical+Indicators+of+Democracy+and+Authoritarianism#firstMatch) (co-author: [Matthew C. Wilson, UofSC](http://matthewcharleswilson.com/), *peer-reviewed*)
+  - [Empirical Indicators of Democracy and Authoritarianism](https://www.oxfordbibliographies.com/view/document/obo-9780199756223/obo-9780199756223-0348.xml?rskey=tdWYwB&result=1&q=Empirical+Indicators+of+Democracy+and+Authoritarianism#firstMatch) 
+    - Co-author: [Matthew C. Wilson (UofSC)](http://matthewcharleswilson.com/), *peer-reviewed*)
 - Under Reviews:
   - You Scratch My Back and I Scratch Yours: An Explanation of Dyadic Politics of Naming and Shaming <br>
-    - co-author: Chun-Young Park, UGA
+    - Co-author: Chun-Young Park (UGA)
 - Working Papers: 
   - [Why do authoritarian regimes provide welfare program?](https://github.com/pherephobia/Authoritarian.Welfare)
   - [Heterogeneous Democratization: Elite Politics and Economic Sanctions](https://github.com/pherephobia/HeteroDem)
@@ -22,24 +23,29 @@ More specifically, my research examines how institutions condition individualsâ€
 <img src="Korean Politics.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers
   - [Leadership in Communication: How Leadershipo and Communication Affect Public Service Motivation (PSM)](https://github.com/pherephobia/05_KIPA-KAPA)
+    - Co-authors: Jiyoon Kang (UofSC), Sun Gue Yang (UofSC)
   - [Effect of Reasons for Re/by-election on Voting Participation and Outcomes: An Empirical Study of Re/by-elections for the Korean National Assembly after democratization](https://github.com/pherephobia/03_KR_REBYELECTION_TURNOUT)
 - Book chapter In *Issues and Perspectives in Korean Peace Process.* Hankuk University of Foreign Studies Knowledge Press.:
   - [What Do We Know and Do Not Know?: Attitudes Toward North Korea and Unification](https://github.com/pherephobia/2020_Panmunjom)
+    - Co-author: Jaeyoung Hur (Yonsei Univ.)
 - Working Papers: 
-  - Trust Heuristic and Vote Choice: Evidence from Cross-sectional Studies in South Korea (co-authors: Jaeyoung Hur, Hyun-Hee Heo, Deok Hyun Jang, Won Mo Jang)
-  
+  - Trust Heuristic and Vote Choice: Evidence from Cross-sectional Studies in South Korea 
+    -  Co-authors: Jaeyoung Hur (Yonsei Univ.), Hyun-Hee Heo (Korea Univ.), Deok Hyun Jang (Gallup Korea), Won Mo Jang (SNU Borame Medical Center)
+
  ### Studies on International Relations
 - ðŸ’¬ Studies on International Relations will be labelled with the sticker of **Intl. Relations**.
 <img src="IR.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers: *Will be updated soon.*
 - Working Papers:
-  - [Social Capital and the Success of Economic Sanction](https://github.com/pherephobia/SCEconSanction) (co-authors: Jaeyoung Hur, [Hanna Kim](https://www.unomaha.edu/college-of-arts-and-sciences/political-science/about-us/directory/hannah-june-kim.php), and Taehee Whang)
+  - [Social Capital and the Success of Economic Sanction](https://github.com/pherephobia/SCEconSanction)
+    - Co-authors: Jaeyoung Hur (Yonsei Univ.), [Hanna Kim (UNOmaha)](https://www.unomaha.edu/college-of-arts-and-sciences/political-science/about-us/directory/hannah-june-kim.php), [Taehee Whang (Yonsei Univ.](https://yonsei.pure.elsevier.com/en/persons/taehee-whang)
 
 ### Studies on Pedagogy
 - ðŸ’¬ Studies on pedagogy and education on ppolitical science will be labelled with the sticker of **Pedagogy**.
 <img src="pedagogy.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers: 
-  - [Concept Mapping and Reading Comprehension](https://www.tandfonline.com/doi/abs/10.1080/15512169.2023.2164861?journalCode=upse20) (co-authors: [Matthew C. Wilson, UofSC](http://matthewcharleswilson.com/), [Christopher, Howell](https://sites.google.com/view/c-e-howell), and [Kelsey Martin-Morales](https://www.kelseymartinmorales.com/) *peer-reviewed*)
+  - [Concept Mapping and Reading Comprehension](https://www.tandfonline.com/doi/abs/10.1080/15512169.2023.2164861?journalCode=upse20)
+    - Co-authors: [Matthew C. Wilson, UofSC](http://matthewcharleswilson.com/), [Christopher Howell (UofSC](https://sites.google.com/view/c-e-howell), and [Kelsey Martin-Morales (UofSC)](https://www.kelseymartinmorales.com/)
 
  ### Languages
 ![R](https://img.shields.io/badge/R-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-0696D7?style=plastic&logo=R&logoColor=white) ![python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=python&logoColor=white) 
