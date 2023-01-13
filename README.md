@@ -10,7 +10,7 @@ More specifically, my research examines how institutions condition individualsâ€
 <img src="autocrats.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers: 
   - [Empirical Indicators of Democracy and Authoritarianism](https://www.oxfordbibliographies.com/view/document/obo-9780199756223/obo-9780199756223-0348.xml?rskey=tdWYwB&result=1&q=Empirical+Indicators+of+Democracy+and+Authoritarianism#firstMatch) 
-    - Co-author: [Matthew C. Wilson (UofSC)](http://matthewcharleswilson.com/), *peer-reviewed*)
+    - Co-author: [Matthew C. Wilson (UofSC)](http://matthewcharleswilson.com/), *peer-reviewed*
 - Under Reviews:
   - You Scratch My Back and I Scratch Yours: An Explanation of Dyadic Politics of Naming and Shaming <br>
     - Co-author: Chun-Young Park (UGA)
