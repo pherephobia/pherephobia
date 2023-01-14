@@ -45,7 +45,7 @@ More specifically, my research examines how institutions condition individualsâ€
 <img src="pedagogy.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers: 
   - [Concept Mapping and Reading Comprehension](https://www.tandfonline.com/doi/abs/10.1080/15512169.2023.2164861?journalCode=upse20)
-    - Co-authors: [Matthew C. Wilson, UofSC)](http://matthewcharleswilson.com/), [Christopher Howell (UofSC)](https://sites.google.com/view/c-e-howell), and [Kelsey Martin-Morales (UofSC)](https://www.kelseymartinmorales.com/)
+    - Co-authors: [Matthew C. Wilson (UofSC)](http://matthewcharleswilson.com/), [Christopher Howell (UofSC)](https://sites.google.com/view/c-e-howell), and [Kelsey Martin-Morales (UofSC)](https://www.kelseymartinmorales.com/)
 
  ### Languages
 ![R](https://img.shields.io/badge/R-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-0696D7?style=plastic&logo=R&logoColor=white) ![python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=python&logoColor=white) 
