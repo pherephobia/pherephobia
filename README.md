@@ -52,9 +52,13 @@ More specifically, my research examines how institutions condition individuals�
 - 💬 Studies on International Relations will be labelled with the sticker of **Intl. Relations**.
 <img src="IR.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers: *Will be updated soon.*
+- Under Reviews:
+  - Expanding China’s Influence in the International Human Rights Regime Analysis of UN UPR Recommendations
+    - Co-author: Hyunkyu Kim (Hankuk Univ. of Foreign Studies)
 - Working Papers:
   - [Social Capital and the Success of Economic Sanction](https://github.com/pherephobia/SCEconSanction)
     - Co-authors: Jaeyoung Hur (Yonsei Univ.), [Hanna Kim (UNOmaha)](https://www.unomaha.edu/college-of-arts-and-sciences/political-science/about-us/directory/hannah-june-kim.php), [Taehee Whang (Yonsei Univ.)](https://yonsei.pure.elsevier.com/en/persons/taehee-whang)
+
 
 ### Studies on Pedagogy
 - 💬 Studies on pedagogy and education on ppolitical science will be labelled with the sticker of **Pedagogy**.
