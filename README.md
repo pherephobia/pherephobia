@@ -51,9 +51,8 @@ More specifically, my research examines how institutions condition individuals�
 ### Studies on International Relations
 - 💬 Studies on International Relations will be labelled with the sticker of **Intl. Relations**.
 <img src="IR.png" width="90" height= "100" align="right" /> <br />  
-- Published Papers: *Will be updated soon.*
-- Under Reviews:
-  - Expanding China’s Influence in the International Human Rights Regime Analysis of UN UPR Recommendations
+- Published Papers: 
+  - [Expanding China’s Influence via Membership: Examining the Influence of Chinese-Led International Institutions on Responses to Human Rights Issues in China](https://link.springer.com/article/10.1007/s11366-024-09886-2)
     - Co-author: Hyunkyu Kim (Hankuk Univ. of Foreign Studies)
 - Working Papers:
   - [Social Capital and the Success of Economic Sanction](https://github.com/pherephobia/SCEconSanction)
