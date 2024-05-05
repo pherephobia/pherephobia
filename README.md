@@ -10,7 +10,9 @@ More specifically, my research examines how institutions condition individualsâ€
 <img src="autocrats.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers: 
   - [Empirical Indicators of Democracy and Authoritarianism](https://www.oxfordbibliographies.com/view/document/obo-9780199756223/obo-9780199756223-0348.xml?rskey=tdWYwB&result=1&q=Empirical+Indicators+of+Democracy+and+Authoritarianism#firstMatch) 
-    - Co-author: [Matthew C. Wilson (UofSC)](http://matthewcharleswilson.com/), *peer-reviewed*
+    - Co-author: [Matthew C. Wilson (UofSC)](http://matthewcharleswilson.com/), *peer-reviewed* 
+  - A Study on the Prevention Legislation for Strengthening Technology Security: Focusing on Global Legislative Cases Related to National Technology Security
+    - Co-author: Chae Hoon Lee (KETI)
 - Under Reviews:
   - You Scratch My Back and I Scratch Yours: An Explanation of Dyadic Politics of Naming and Shaming <br>
     - Co-author: Chun-Young Park (UGA)
@@ -22,6 +24,8 @@ More specifically, my research examines how institutions condition individualsâ€
 - ðŸ’¬ Studies on Korean politics will be labeled with the sticker of **Korean Politics**.
 <img src="Korean Politics.png" width="90" height= "100" align="right" /> <br />  
 - Published Papers
+  - Voter Choices in Re/By-Elections: A Study of Local Re/By-Elections Between 2010 and 2021
+    - Co-author: Da Bin Jung (Chungnam National University) 
   - Multi-Member District and Survival of the Third Party: The Cases between the 4th and 8th Korean Local Elections
     - Co-author: Chae Hoon Lee (KETI)
   - Who Does Early Voting Serve?: A Study of Voters in Koreaâ€™s 20th Presidential Election
