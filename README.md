@@ -19,7 +19,7 @@ More specifically, my research examines how institutions condition individualsâ€
 - Under Reviews:
   - Will be updated.
 - Working Papers: 
-  - [Why do authoritarian regimes provide welfare programs?](https://github.com/pherephobia/Authoritarian.Welfare)
+  - [Why do authoritarian regimes provide welfare?](https://github.com/pherephobia/Authoritarian.Welfare)
   - [Heterogeneous Democratization: Elite Politics and Economic Sanctions](https://github.com/pherephobia/HeteroDem)
 
 ### Studies on Korean Politics 
