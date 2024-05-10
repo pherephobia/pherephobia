@@ -13,9 +13,11 @@ More specifically, my research examines how institutions condition individualsâ€
     - Co-author: [Matthew C. Wilson (UofSC)](http://matthewcharleswilson.com/), *peer-reviewed* 
   - A Study on the Prevention Legislation for Strengthening Technology Security: Focusing on Global Legislative Cases Related to National Technology Security
     - Co-author: Chae Hoon Lee (KETI)
-- Under Reviews:
+- Revise & Resubmit:
   - You Scratch My Back and I Scratch Yours: An Explanation of Dyadic Politics of Naming and Shaming <br>
     - Co-author: Chun-Young Park (UGA)
+- Under Reviews:
+  - Will be updated.
 - Working Papers: 
   - [Why do authoritarian regimes provide welfare programs?](https://github.com/pherephobia/Authoritarian.Welfare)
   - [Heterogeneous Democratization: Elite Politics and Economic Sanctions](https://github.com/pherephobia/HeteroDem)
