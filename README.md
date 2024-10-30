@@ -1,9 +1,9 @@
 ## Hello, welcome to my GitHub page ⚡
 <img src= "avataaars.png"  width="210" height= "210" align="right" />
 
-I am a Ph.D. Candidate in the Department of Political Science at the University of South Carolina, Columbia. I study Comparative Politics, International Relations, and Political Methodology. My research interests include some areas with an emphasis on the effects of political institutions across various geographies.
+I am working as a researcher in the Kangwon Institute for Unification Studies at the Kangwon National University, Chuncheon, Republic of Korea. I received my Ph.D. from the Department of Political Science at the University of South Carolina, Columbia. I study Comparative Politics, International Relations, and Political Methodology. My research interests include some areas with an emphasis on the effects of political institutions across various geographies.
 
-More specifically, my research examines how institutions condition individuals’ behavior and how these and other factors shape systematic change. Thus, I am focusing on some political features in dictatorships (autocracies) that are usually considered just “non-democracies.” I’m currently working on the research topics of *Why Do Authoritarian Regimes Provide Welfare?* and *Heterogeneous Democracy: Elite Politics and Elite Politics and Economic Sanctions*. If you want to know me more, feel free to visit my [webpage](https://www.sanghoon-park.com/) and see my latest curriculum vitae (also, you can find my CV [here](https://sanghoon-park.com/cv/cv_sanghoon_04032024.pdf)
+More specifically, my research examines how institutions condition individuals’ behavior and how these and other factors shape systematic change. Thus, I am focusing on some political features in dictatorships (autocracies) that are usually considered just “non-democracies.” I’m currently working on the research topics of *Why Do Authoritarian Regimes Provide Welfare?* and *Heterogeneous Democracy: Elite Politics and Elite Politics and Economic Sanctions*. If you want to know me more, feel free to visit my [webpage](https://www.sanghoon-park.com/) and see my latest curriculum vitae (also, you can find my CV [here](https://sanghoon-park.com/cv/)
 
 ### Studies on Comparative Authoritarianism  
 - 💬 Studies on comparative authoritarian regimes will be labeled with the sticker of **Comparative Autocracies**.
@@ -13,13 +13,11 @@ More specifically, my research examines how institutions condition individuals�
     - Co-author: [Matthew C. Wilson (UofSC)](http://matthewcharleswilson.com/), *peer-reviewed* 
   - A Study on the Prevention Legislation for Strengthening Technology Security: Focusing on Global Legislative Cases Related to National Technology Security
     - Co-author: Chae Hoon Lee (KETI)
-- Revise & Resubmit:
-  - You Scratch My Back and I Scratch Yours: An Explanation of Dyadic Politics of Naming and Shaming <br>
-    - Co-author: Chun-Young Park (UGA)
+  - You Scratch My Back, and I Scratch Yours: Autocratic Reciprocity in the Politics of Naming and Shaming (forthcoming)
+    - Co-author: Chun-Young Park (Nazarbayev University)
 - Under Reviews:
-  - Will be updated.
-- Working Papers: 
   - [Why do authoritarian regimes provide welfare?](https://github.com/pherephobia/Authoritarian.Welfare)
+- Working Papers: 
   - [Heterogeneous Democratization: Elite Politics and Economic Sanctions](https://github.com/pherephobia/HeteroDem)
 
 ### Studies on Korean Politics 
@@ -38,9 +36,10 @@ More specifically, my research examines how institutions condition individuals�
 - Book chapter In *Issues and Perspectives in Korean Peace Process.* Hankuk University of Foreign Studies Knowledge Press.:
   - [What Do We Know and Do Not Know?: Attitudes Toward North Korea and Unification](https://github.com/pherephobia/2020_Panmunjom)
     - Co-author: Jaeyoung Hur (Yonsei Univ.)
-- Working Papers: 
-  - Trust Heuristic and Vote Choice: Evidence from Cross-sectional Studies in South Korea 
+- Revise & Resubmit:
+  - Retrospection and vote choice: Evidence from cross-sectional studies in South Korea
     -  Co-authors: Jaeyoung Hur (Yonsei Univ.), Hyun-Hee Heo (Korea Univ.), Deok Hyun Jang (Gallup Korea), Won Mo Jang (SNU Borame Medical Center)
+- Working Papers: TBA
 - Data sets:
   - Republic of Korea National Election Commission archives and provides data on political parties and elections in South Korea. However, it provides data in the format of an interactive webpage, which is not suitable to investigate for research.
   - Using `{RSelenium}`, I scrapped the tables and manipulated them into tidy forms.
